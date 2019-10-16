@@ -2,12 +2,13 @@ This is a my complete java application file...Hello Git...!!
 
 class HelloGit{
 
-	void myMethod()
+	static void myMethod()
 	{
 		sysout("MyMethod");
 	}
 	public static void main(String args[])
-	{
+	{	
+		myMethod();
 
 		System.out.println("Java Application to print...***....welcome to git");
 
