@@ -5,6 +5,7 @@ class HelloGit{
 	static String myMethod()
 	{
 		return "MyMethod";
+		
 	}
 	public static void main(String args[])
 	{	
