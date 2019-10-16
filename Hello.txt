@@ -2,10 +2,12 @@ This is a my complete java application file...Hello Git...!!
 
 class HelloGit{
 
-	static String myMethod()
+
+	
+
+	static static myMethod(String str)
 	{
-		return "MyMethod";
-		
+		System.out.println("str");
 	}
 	public static void main(String args[])
 	{	
