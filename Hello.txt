@@ -1,6 +1,11 @@
 This is a my complete java application file...Hello Git...!!
 
 class HelloGit{
+
+	void myMethod()
+	{
+		sysout("MyMethod");
+	}
 	public static void main(String args[])
 	{
 
