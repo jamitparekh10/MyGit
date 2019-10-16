@@ -2,9 +2,9 @@ This is a my complete java application file...Hello Git...!!
 
 class HelloGit{
 
-	static void myMethod()
+	static String myMethod()
 	{
-		sysout("MyMethod");
+		return "MyMethod";
 	}
 	public static void main(String args[])
 	{	
